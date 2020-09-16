@@ -1,0 +1,49 @@
+#main {
+  font-family: 'Noto Sans JP', sans-serif;
+  text-align: center;
+  background-color: #b4e0bf;
+  margin: 10px;
+  border-radius: 10px;
+  
+}
+
+img{
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-div{
+  padding: 15px;
+  margin: 20px 130px;
+  background-color: #9bbda4;
+}
+
+#img-caption {
+  margin-top: 15px;
+}
+
+#tribute-info{
+  margin: 0 auto;
+  width: 60%;
+}
+
+ul{
+  padding: 0;
+  margin-bottom: 30px;
+}
+li{
+  margin-bottom: 10px;
+  text-align: start;
+}
+
+#tribute-info p {
+  text-align: start;
+  margin-bottom: 30px;
+}
+
+#bottom {
+  margin: 0 auto;
+  width: 80%;
+}
+
